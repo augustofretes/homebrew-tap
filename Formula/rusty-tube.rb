@@ -2,7 +2,7 @@ class RustyTube < Formula
   desc "Terminal-based YouTube Music player written in Rust"
   homepage "https://github.com/augustofretes/rusty-tube"
   url "https://github.com/augustofretes/rusty-tube/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "d569fe821a48abe44d998f18cc0473597d1ce2cc205cad62261bb31a7c626cdc"
+  sha256 "2cff99791148ca9054c53af0400916bcb40046b3bbdf8543629714341eef92f2"
   license "MIT"
   head "https://github.com/augustofretes/rusty-tube.git", branch: "main"
 
