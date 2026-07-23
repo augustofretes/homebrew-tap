@@ -1,7 +1,6 @@
 class RustyTube < Formula
   desc "Terminal-based YouTube Music player written in Rust"
   homepage "https://github.com/augustofretes/rusty-tube"
-  version "0.1.3"
   license "MIT"
   head "https://github.com/augustofretes/rusty-tube.git", branch: "main"
 
